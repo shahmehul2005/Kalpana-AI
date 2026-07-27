@@ -8,11 +8,15 @@ Empowering 200M+ artisans with Google Cloud-native AI tools for storytelling, pr
 
 `https://kalpana-ai.vercel.app`
 
+## Backend Repo
+
+`https://github.com/shahmehul2005/Kalpana-AI-Backend`
+
 Fully functional prototype with all core features.
 
 ## Project Vision
 
-KalpanaAI transforms how Indian artisans preserve heritage while accessing global markets. By combining cultural intelligence with agent-based AI architecture, this platform aims to deliver an AP2-ready commerce system designed specifically for traditional craftspeople.
+KalpanaAI transforms how Indian artisans preserve heritage while accessing global markets. By combining cultural intelligence with agent-based AI architecture, this platform aims to deliver an AP2-ready commerce experience for craft businesses.
 
 "We don't force artisans to learn technology. We built technology that understands artisans."
 
@@ -224,7 +228,7 @@ MIT License. See `LICENSE` for details.
 - Project Lead: Bhavishya Jain
 - GitHub: `@Bhavishya011`
 - Live Demo: `https://kalpana-ai.vercel.app`
-- Backend Repo: `https://github.com/Bhavishya011/Kalpana-AI-Backend`
+- Backend Repo: `https://github.com/shahmehul2005/Kalpana-AI-Backend`
 - Hackathon: Google Cloud Gen AI Exchange 2025
 
 "KalpanaAI doesn't just use AI. It gives AI a soul, a purpose, and a mission: to ensure no artisan is left behind in the digital age."
